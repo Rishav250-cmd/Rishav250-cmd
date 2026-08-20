@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-rishavdev.05%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:rishavdev.05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8B5CF6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=A78BFA&style=flat-square&label=Followers)
@@ -152,15 +153,17 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 
 ---
 
-## 📜 Certifications
-
-> _Add your certification badges here as you earn them — grouped by provider (AWS, Oracle, NPTEL, Cisco, etc.). None were listed on the source resume, so none are included yet._
-
----
-
 ## 💻 Coding Profiles
 
-> _Add your LeetCode / GeeksforGeeks / HackerRank / CodeChef badges here once you have active profiles to link._
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
+
+<img src="https://leetcode-stats-card.vercel.app/api?username=Rishav_Dev&theme=radical&hide_border=true&background=0D1117&border_color=8B5CF6" />
+
+</div>
+
+> _Add GeeksforGeeks / HackerRank / CodeChef badges here once you have active profiles to link._
 
 ---
 
