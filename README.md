@@ -163,7 +163,7 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 
 </div>
 
-> _Add GeeksforGeeks / HackerRank / CodeChef badges here once you have active profiles to link._
+
 
 ---
 
