@@ -16,9 +16,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=A78BFA&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?color=7C3AED&style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Rishav250-cmd&color=8B5CF6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Rishav250-cmd?color=A78BFA&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/Rishav250-cmd?color=7C3AED&style=flat-square&label=Stars)
 
 </div>
 
@@ -163,7 +163,7 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 
 </div>
 
-
+> _Add GeeksforGeeks / HackerRank / CodeChef badges here once you have active profiles to link._
 
 ---
 
@@ -171,10 +171,10 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishav250-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav250-cmd&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav250-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 </div>
 
@@ -182,7 +182,7 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rishav250-cmd&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
@@ -190,7 +190,7 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishav250-cmd&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" />
 
 </div>
 
@@ -198,7 +198,7 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Rishav250-cmd/Rishav250-cmd/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
