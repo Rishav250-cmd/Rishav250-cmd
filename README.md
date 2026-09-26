@@ -86,7 +86,7 @@ A full-stack food ordering web application enabling users to browse restaurants,
 | **Core Features** | User authentication, dynamic cart & order management, responsive UI |
 | **API Design** | RESTful APIs for restaurant, menu, and order data |
 | **UI** | Tailwind CSS for a fully responsive interface |
-| **Repository** | `[Add repo link]` |
+| **Repository** | `https://github.com/Rishav250-cmd/Quick_Dine_2.0` |
 
 Built to simulate a real-world food delivery experience — from browsing and cart logic to order placement — with a focus on clean API structure and a responsive front end.
 
@@ -104,7 +104,7 @@ A full-featured e-commerce web application with separate customer and admin dash
 | **Auth & Security** | JWT-based user authentication and authorization with secure route protection |
 | **Data Layer** | Product management with image uploads and schema modeling via Mongoose |
 | **Dashboards** | Distinct customer-facing and admin-facing flows |
-| **Repository** | `[Add repo link]` |
+| **Repository** | `https://github.com/Rishav250-cmd/Mini_ecommerce_app` |
 
 Focused on real-world e-commerce concerns: secure auth, protected routes, and a data model that supports product management end-to-end.
 
