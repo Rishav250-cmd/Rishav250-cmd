@@ -1,238 +1,326 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishav%20Dev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20Developer%20%7C%20B.Tech%20Mechanical%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Rishav%20Dev&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Agents%20%7C%20Android&descAlignY=60&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;Aerodynamics+Domain+Member+%40+Aerogenesis;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<a href="https://github.com/Rishav250-cmd">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%7C+MERN+%26+Next.js;AI+Agent+Builder+%7C+LangGraph+%26+LangChain;Android+Developer+%7C+Kotlin+%26+Jetpack+Compose;B.Tech+%40+MNNIT+Allahabad" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+![MNNIT](https://img.shields.io/badge/MNNIT_Allahabad-B.Tech_2025--2029-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Branch](https://img.shields.io/badge/Mechanical_Engineering-CPI_7.84-6D28D9?style=for-the-badge)
+![Location](https://img.shields.io/badge/Prayagraj-India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![B.Tech](https://img.shields.io/badge/B.Tech-Mechanical%20Engineering-6D28D9?style=for-the-badge)](#)
-[![MNNIT](https://img.shields.io/badge/MNNIT-Allahabad-4C1D95?style=for-the-badge)](#)
-[![Location](https://img.shields.io/badge/Location-Bhagalpur%2C%20Bihar-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Email](https://img.shields.io/badge/Email-rishavdev.05@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavdev.05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rishav250--cmd-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishav250-cmd)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-rishavdev.05%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:rishavdev.05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishav250-cmd&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Rishav250-cmd?color=A78BFA&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/Rishav250-cmd?color=7C3AED&style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Rishav250-cmd&label=Profile+Views&color=7C3AED&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Rishav250-cmd?label=Followers&style=flat-square&color=6D28D9&labelColor=1e1b4b)
+![Stars](https://img.shields.io/github/stars/Rishav250-cmd?label=Stars&style=flat-square&color=4F46E5&labelColor=1e1b4b)
 
 </div>
 
-<br/>
+---
+
+## About
+
+I am an engineering student at **MNNIT Allahabad** who builds production-style software across the stack. My work spans **full-stack web applications** (React, Next.js, Node.js, MongoDB), **AI agent workflows** (LangGraph, LangChain, structured LLM output, human-in-the-loop control) and **privacy-first Android apps** (Kotlin, Jetpack Compose, Room, SQLCipher).
+
+I approach projects with a product engineering mindset: role-based access, validated booking flows, encrypted local storage, retry and review loops for LLM output, and clean developer experience. I also practice **Data Structures & Algorithms in Java**.
+
+**Open To**
+
+- Internships in software engineering, full-stack development and AI/agent engineering
+- Hackathons and open-source collaboration
+- Team projects in web, Android and AI
 
 ---
 
-## 🧠 About Me
-
-I'm a **Mechanical Engineering undergraduate at MNNIT Allahabad (2025–2029)** with a strong pull toward software — currently building my depth in **full-stack web development** using the **MERN stack**. I enjoy taking a product from a blank repo to a working, deployed application: designing REST APIs, wiring up authentication, and building interfaces that feel responsive and clean.
-
-Alongside coursework, I contribute to **Aerogenesis**, MNNIT's fixed-wing UAV design team, as an **Aerodynamics Domain Member** — handling aerodynamic design calculations and technical reporting using MATLAB and Fusion 360. That cross-disciplinary mix (mechanical design + software engineering) shapes how I approach problems: structured, deadline-driven, and detail-first.
-
-I also spend time helping peers and juniors debug code and understand core DSA / web-development concepts — I like the teaching side of engineering as much as the building side.
-
-**🔭 Open To:**
-- Software Engineering Internships (Full Stack / Backend)
-- Open Source Contributions
-- Collaborative Web Development Projects
-- Mentorship & Peer Learning Opportunities
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=java,py,js,cpp,c" />
-</div>
+![Java](https://skillicons.dev/icons?i=java,ts,js,python,kotlin&theme=dark)
 
 **Frontend**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js" />
-</div>
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark)
 
 **Backend & Databases**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</div>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite&theme=dark)
 
-**Tools & Design**
+**Cloud, DevOps & Tooling**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,autocad" />
-</div>
+![Tooling](https://skillicons.dev/icons?i=git,github,vercel,gradle,androidstudio,vscode&theme=dark)
 
-*(Also working with Fusion 360 for mechanical/CAD modeling and JWT for authentication.)*
+![LangGraph](https://img.shields.io/badge/LangGraph-4C1D95?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-6D28D9?style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4338CA?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-7C3AED?style=flat-square)
+![Render](https://img.shields.io/badge/Render-312E81?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-4F46E5?style=flat-square)
 
 ---
 
-## 🚀 Featured Projects
+## AI / ML Expertise
 
-<details>
-<summary><b>🍽️ QuickDine — Restaurant Discovery & Food Ordering Platform</b></summary>
+| Domain | Proficiency | Details |
+|:--|:--|:--|
+| AI Agents | Hands-on | LangGraph workflows, conditional routing, checkpointing, human-approval interrupts |
+| LLM Applications | Hands-on | LangChain, OpenAI (gpt-4.1-mini), Pydantic structured output, LLM review and retry loops |
+| On-Device ML | Applied | ML Kit for receipt OCR in an offline Android app |
+| Code Analysis | Applied | Babel AST parsing and D3 Force graphs for dependency and call-graph exploration |
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><b>Nebula | Interactive Dependency Graph Explorer</b></summary>
+
 <br/>
 
-A full-stack food ordering web application enabling users to browse restaurants, view menus, and place orders in real time.
+Turns any public GitHub repository into an explorable code map. Team project (3 members), CodeSangam'26.
 
-| Aspect | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB, Mongoose |
-| **Core Features** | User authentication, dynamic cart & order management, responsive UI |
-| **API Design** | RESTful APIs for restaurant, menu, and order data |
-| **UI** | Tailwind CSS for a fully responsive interface |
-| **Repository** | `https://github.com/Rishav250-cmd/Quick_Dine_2.0` |
+| | |
+|:--|:--|
+| **Stack** | React, TypeScript, Vite, Zustand, Node.js, Express, Babel AST, D3 Force, Git |
+| **Scale** | Accepts any public GitHub repo or ZIP upload |
+| **Performance** | Live SSE progress updates and commit-SHA caching |
+| **Security** | Analyzes public repositories and ZIP input |
+| **Impact** | Detects circular imports and blast radius; adds function-level call graphs and onboarding paths with starter issues |
+| **Repository** | [github.com/Rishav250-cmd](https://github.com/Rishav250-cmd) |
 
-Built to simulate a real-world food delivery experience — from browsing and cart logic to order placement — with a focus on clean API structure and a responsive front end.
+Converts a repository into an interactive dependency graph so new contributors can understand structure, spot risky coupling and find a starting point quickly.
 
 </details>
 
 <details>
-<summary><b>🛒 Scatch — Full-Stack E-Commerce Platform</b></summary>
+<summary><b>Customer Support Agent | LangGraph Workflow</b></summary>
+
 <br/>
 
-A full-featured e-commerce web application with separate customer and admin dashboards.
+An AI agent that classifies support tickets, drafts replies and reviews them. Personal project, November 2026.
 
-| Aspect | Details |
-|---|---|
-| **Stack** | Node.js, Express.js, MongoDB, EJS, JWT |
-| **Auth & Security** | JWT-based user authentication and authorization with secure route protection |
-| **Data Layer** | Product management with image uploads and schema modeling via Mongoose |
-| **Dashboards** | Distinct customer-facing and admin-facing flows |
-| **Repository** | `https://github.com/Rishav250-cmd/Mini_ecommerce_app` |
+| | |
+|:--|:--|
+| **Stack** | Python, LangGraph, LangChain, OpenAI (gpt-4.1-mini), Pydantic |
+| **Scale** | Multi-category ticket routing to specialised handlers |
+| **Performance** | Review loop retries up to 3 times until a draft scores 8/10 |
+| **Security** | Billing replies pause for human approval via LangGraph interrupts |
+| **Impact** | Structured classification by category and urgency; checkpointing resumes the same thread |
+| **Repository** | [github.com/Rishav250-cmd](https://github.com/Rishav250-cmd) |
 
-Focused on real-world e-commerce concerns: secure auth, protected routes, and a data model that supports product management end-to-end.
+A quality-gated pipeline where an LLM scores its own drafts and sensitive replies always receive human sign-off.
 
 </details>
 
 <details>
-<summary><b>🧩 Additional Projects</b></summary>
+<summary><b>Mirror Archive | Offline Android Gallery Manager</b></summary>
+
 <br/>
 
-| Project | Description | Stack |
-|---|---|---|
-| **Weather Forecast Website** | Real-time weather data integration using a public weather API | HTML, Tailwind CSS, JavaScript |
-| **To-Do List Application** | Task management app with add/edit/delete functionality | HTML, Tailwind CSS, JavaScript |
-| **Expense Tracker** | Web app to log and visualize personal expenses | HTML, Tailwind CSS, JavaScript |
-| **Quiz Application** | Interactive quiz platform with score tracking | HTML, Tailwind CSS, JavaScript |
+A privacy-first Android app that organizes photos fully offline. Team project (3 members), CodeSangam'26.
+
+| | |
+|:--|:--|
+| **Stack** | Kotlin, Jetpack Compose, Hilt, Room, SQLCipher, WorkManager, ML Kit |
+| **Scale** | Resumable MediaStore scan with incremental sync |
+| **Performance** | Background processing via WorkManager; ZIP export |
+| **Security** | No internet permission; SQLCipher-encrypted Room database |
+| **Impact** | Duplicate detection, smart albums, receipt OCR and a storage saver |
+| **Repository** | [ThreeLoops_droidrush](https://github.com/Rishav250-cmd/ThreeLoops_droidrush) |
+
+An on-device gallery manager that keeps all user data local while still offering smart organization features.
+
+</details>
+
+<details>
+<summary><b>Quick Dine 2.0 | Restaurant Reservation Platform</b></summary>
+
+<br/>
+
+A full-stack platform to discover restaurants and book tables. Personal project, September 2026.
+
+| | |
+|:--|:--|
+| **Stack** | React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT, Cloudinary |
+| **Scale** | Three roles: customer, owner, admin |
+| **Performance** | Per-time-slot seat availability check before booking |
+| **Security** | JWT authentication, protected routes, owner approvals |
+| **Impact** | Owners manage bookings and restaurant images end to end |
+| **Repository** | [github.com/Rishav250-cmd](https://github.com/Rishav250-cmd) |
+
+Role-based reservation flow that prevents overbooking and gives owners and admins their own controlled workflows.
+
+</details>
+
+<details>
+<summary><b>Scatch | Mini E-commerce App</b></summary>
+
+<br/>
+
+An e-commerce application built as a MERN-style learning project.
+
+| | |
+|:--|:--|
+| **Stack** | Node.js, Express, MongoDB |
+| **Scale** | Product and user flows |
+| **Performance** | Server-side rendered storefront |
+| **Security** | Authenticated user flows |
+| **Impact** | Practice in full-stack commerce architecture |
+| **Repository** | [Mini_ecommerce_app](https://github.com/Rishav250-cmd/Mini_ecommerce_app) |
+
+</details>
+
+<details>
+<summary><b>Sanskriti Setu</b></summary>
+
+<br/>
+
+A cultural platform project.
+
+| | |
+|:--|:--|
+| **Stack** | MERN |
+| **Scale** | Multi-page web application |
+| **Performance** | Responsive frontend |
+| **Security** | Standard web practices |
+| **Impact** | Full-stack practice with a cultural theme |
+| **Repository** | [Sanskritik_Setu](https://github.com/Rishav250-cmd/Sanskritik_Setu) |
 
 </details>
 
 ---
 
-## 💼 Experience & Involvement
+## Experience
 
-**Aerodynamics Domain Member — Aerogenesis (Fixed-Wing UAV Design Competition)**
-*MNNIT Allahabad*
+### Web Team Member &nbsp;|&nbsp; E-Cell, MNNIT Allahabad
+`October 2026` &nbsp;·&nbsp; Prayagraj
 
-- Collaborated with a teammate on aerodynamic design calculations and technical reporting (Phase 1 & 2), including MATLAB-based analysis and Fusion 360 modeling.
-- Worked within a structured team environment, coordinating on deadlines and technical deliverables — directly relevant to mentoring first-years on teamwork and time management.
+Built the official website for **Renaissance '26** (E-Cell, 26–27 Oct 2026).
 
-`MATLAB` `Fusion 360` `Aerodynamics` `Technical Reporting` `Team Collaboration`
+**Scope of work**
+
+- Developed the site with Next.js, React.js and TypeScript
+- Styled the interface with Tailwind CSS and used Node.js for server-side functionality
+- Integrated Google authentication (GAuth) and the Razorpay payment gateway for secure sign-in and payments
+- The website attracted around 4,000–5,000 visitors
+
+![Next.js](https://img.shields.io/badge/Next.js-312E81?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-4338CA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-6D28D9?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-4C1D95?style=flat-square&logo=razorpay&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| 🎓 Academic Performance | CPI 7.84 (1st Year), SPI 8.0 (Sem 1) — B.Tech Mechanical Engineering, MNNIT Allahabad |
-| 💻 Self-Driven Development | Built 6+ web development projects independently, covering auth, REST APIs, and database design |
-| 🤝 Peer Mentorship | Regularly helps peers and juniors debug code and understand DSA / web-development concepts |
-| 📚 Class XII (CBSE) | 94% |
-| 📚 Class X (CBSE) | 94.8% |
+|:--|:--|
+| **CodeSangam'26** | Built Nebula and Mirror Archive as team projects |
+| **Renaissance '26** | Web team member; the E-Cell website drew around 4,000–5,000 visitors |
+| **Academics** | MNNIT B.Tech CPI 7.84 (1st year); Class XII 94% (CBSE); Class X 94.8% (CBSE) |
+| **Leadership** | Web Team (E-Cell), Marketing Team (Computer Coding Club), Web Team (Green Club) |
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
-
-<img src="https://leetcode-stats-card.vercel.app/api?username=Rishav_Dev&theme=radical&hide_border=true&background=0D1117&border_color=8B5CF6" />
-
-</div>
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishav250-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav250-cmd&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav250-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishav250-cmd&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishav250-cmd&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rishav250-cmd/Rishav250-cmd/output/github-contribution-grid-snake-dark.svg" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishav250-cmd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav250-cmd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rishav250-cmd&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishav250-cmd&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishav250-cmd&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rishav250-cmd/Rishav250-cmd/output/github-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## Current Focus
 
 ```yaml
-Learning:
-  - Advanced React patterns & state management
-  - Data Structures & Algorithms
-  - System design fundamentals
-
-Building:
-  - Full-stack MERN projects with production-grade auth
-  - Cleaner, reusable REST API architectures
-
-Exploring:
-  - Cloud deployment & DevOps basics
-  - Open source contribution workflows
-
-Open To:
-  - Software Engineering Internships
-  - Collaborative Projects
-  - Mentorship (giving & receiving)
+learning:
+  - Advanced LangGraph and agent orchestration
+  - Data Structures & Algorithms in Java
+building:
+  - Full-stack MERN and Next.js applications
+  - Offline-first Android apps with Kotlin and Jetpack Compose
+exploring:
+  - AI agents with human-in-the-loop control
+  - Code analysis and developer tooling
+open_to:
+  - Software engineering internships
+  - Hackathons and open-source collaboration
 ```
 
 ---
 
-## 📬 Connect With Me
+## Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavdev.05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-rishavdev.05@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavdev.05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-Rishav250--cmd-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishav250-cmd)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rishav__Dev-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishav_Dev/)
 
 </div>
 
@@ -240,8 +328,8 @@ Open To:
 
 <div align="center">
 
-*"Consistent effort in the right direction compounds — in aerodynamics and in code."*
+*Building reliable software, one commit at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer" width="100%" />
 
 </div>
