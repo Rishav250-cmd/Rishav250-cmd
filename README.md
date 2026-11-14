@@ -162,9 +162,6 @@ Focused on real-world e-commerce concerns: secure auth, protected routes, and a 
 <img src="https://leetcode-stats-card.vercel.app/api?username=Rishav_Dev&theme=radical&hide_border=true&background=0D1117&border_color=8B5CF6" />
 
 </div>
-
-> _Add GeeksforGeeks / HackerRank / CodeChef badges here once you have active profiles to link._
-
 ---
 
 ## 📊 GitHub Analytics
