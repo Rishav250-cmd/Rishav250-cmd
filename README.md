@@ -57,12 +57,17 @@ I approach projects with a product engineering mindset: role-based access, valid
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
 
+**AI & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-4C1D95?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-4338CA?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+
 **Cloud, DevOps & Tooling**
 
 ![Tooling](https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark)
 
-![LangGraph](https://img.shields.io/badge/LangGraph-4C1D95?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-6D28D9?style=flat-square)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-7C3AED?style=flat-square)
 ![Render](https://img.shields.io/badge/Render-312E81?style=flat-square)
 ![Razorpay](https://img.shields.io/badge/Razorpay-4F46E5?style=flat-square)
@@ -261,36 +266,6 @@ Built the official website for **Renaissance '26** (E-Cell, 26–27 Oct 2026).
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishav250-cmd&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishav250-cmd&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rishav250-cmd/Rishav250-cmd/output/github-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
@@ -302,6 +277,7 @@ building:
   - Full-stack MERN and Next.js applications
   - AI agents with human-in-the-loop control
 exploring:
+  - MCP (Model Context Protocol) and tool-using agents
   - Code analysis and developer tooling
 open_to:
   - Software engineering internships
